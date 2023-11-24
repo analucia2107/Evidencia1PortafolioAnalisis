@@ -25,8 +25,8 @@ En este módulo se realizaron las siguientes actividades:
 ### [Módulo 4: Cloud Computing](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/ebe91aac5582e27e0559e7ca92be3eb47f8a9f90/Modulo%204)
 
 En este módulo se llevaron a cabo las siguientes actividades:
-- **CloudMigration_Equipo4-1.pdf**
-  - Archivo pdf en el que se explica un proceso de migración a la nube
+- **DisenoCloud_Equipo4-1.pdf**
+  - Archivo pdf en el que se diseña una arquitectura en la nube para una empresa que busca migrar de físico a la nube.
 
 ### [Módulo 5: Estadística Avanzada](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/ebe91aac5582e27e0559e7ca92be3eb47f8a9f90/Modulo%205)
 
