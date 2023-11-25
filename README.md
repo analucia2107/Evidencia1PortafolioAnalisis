@@ -6,12 +6,7 @@ Este repositorio contiene las entregas y actividades realizadas durante las últ
 
 ### [Módulo 2: Deep Learning](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/83fdd953e1a8ac5594da511d3f56b9460ab45018/Modulo%202)
 
-En este módulo se llevaron a cabo las siguientes actividades:
-
-- **Momento de Retroalimentación Individual: Implementación de un modelo de Deep Learning**
-  - Se implementó un modelo de redes neuronales capaz de identificar si una imagen es una manzana o un tomate.
-  - Código disponible en la carpeta correspondiente.
-  - Se incluye un informe detallado de los cambios realizados y los hallazgos.
+- **Video Explicación Código - Equipo 4**
 
 ### [Módulo 3: NLP](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/83fdd953e1a8ac5594da511d3f56b9460ab45018/Modulo%203)
 
