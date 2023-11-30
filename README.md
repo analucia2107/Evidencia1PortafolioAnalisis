@@ -3,6 +3,10 @@
 Este repositorio contiene las entregas y actividades realizadas durante las últimas 10 semanas.
 
 ## Módulos
+### [Módulo 1: Big Data](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/d5f2190160ef272e570d376328dfc9813bbca707/Modulo%201)
+En este módulo se llevaron a cabo las siguientes actividades:
+- **Instalación de Spark en AWS**
+  - Se instaló a través de AWS y command line, "Spark".
 
 ### [Módulo 2: Deep Learning](https://github.com/analucia2107/Evidencia1PortafolioAnalisis/tree/83fdd953e1a8ac5594da511d3f56b9460ab45018/Modulo%202)
 
